@@ -1,29 +1,29 @@
 
-// $(document).ready(function(){
-//     $("#one").click(function(){
-//         $("#card").toggle();
-//         $("#carb").hide();
+$(document).ready(function(){
+    $("#one").click(function(){
+        $("#card").toggle();
+        $("#carb").hide();
        
-//     })
+    })
     
-//     $("#two").click(function(){
-//         $("#card").hide();
-//         $("#carb").toggle();
-//     })
+    $("#two").click(function(){
+        $("#card").hide();
+        $("#carb").toggle();
+    })
      
-//     $("#three").click(function(){
-//         $("#carb").hide();
-//         $("#cart").toggle();
-//     })
+    $("#three").click(function(){
+        $("#carb").hide();
+        $("#cart").toggle();
+    })
      
-//     $("#four").click(function(){
-//         $("#cart").hide();
-//         $("#cars").toggle();
-//     })
+    $("#four").click(function(){
+        $("#cart").hide();
+        $("#cars").toggle();
+    })
      
-//     $("#five").click(function(){
-//         $("#cars").hide();
-//         $("#carl").toggle();
-//     })
+    $("#five").click(function(){
+        $("#cars").hide();
+        $("#carl").toggle();
+    })
 
-// })
+})
